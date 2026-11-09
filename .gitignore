@@ -9,4 +9,3 @@ build/
 # Firebase-ключи лучше не публиковать в открытом репозитории
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
-lib/firebase_options.dart
